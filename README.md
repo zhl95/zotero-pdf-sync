@@ -1,5 +1,5 @@
 # zotero-pdf-sync
-a python script synchronizes pdf documents between zotero dataset and customized path for further sync like dropbox and mobile devices.
+A python script synchronizes pdf documents between zotero dataset and customized path for further sync like dropbox and mobile devices. Original collection and document structure will be maintained. In the case of multi-collection for single document. A txt file with the same document name will be generated on the target folder telling the original pdf path on another folder.
 
 
 ## Getting Started
